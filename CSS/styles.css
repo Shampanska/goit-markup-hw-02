@@ -21,7 +21,8 @@
  
  body {
     font-family: "Roboto", sans-serif;
-    --second-family: "Raleway", sans-serif;
+    background-color: #fff;
+    color: #434455;
     }
 
  .hero {
