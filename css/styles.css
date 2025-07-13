@@ -17,18 +17,27 @@ body {
    color: #2e2f42
 }
 
+/*header*/
 .menu{
    font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #2e2f42;
-   forced-color-adjust: #404bbf;
 }
 .menu:hover{
    color: #404bbf;
 }
 
 address{
-   font-style: norma
+   font-style: normal;
+
+}
+.contact{
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: #434455;
+}
+.contact:hover{
+   color: #404bbf;
 }
