@@ -41,3 +41,13 @@ a> .contacts{
    gap: 40px;
    color: #434455;
 }
+
+.studio{
+   font-weight: 500;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color:#2e2f42;
+}
+.studio:hover{
+   color: #404bbf;;
+}
