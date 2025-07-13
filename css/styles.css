@@ -1,53 +1,6 @@
-header{
-   height: 72px;
-   background-color: #ffffff;
-
-}
-
-.logo{
-   font-family: "Raleway", sans-serif;
-   width: 115px;
-   height: 24px;
-   font-weight: 700;
-   font-size: 18px;
-   line-height: 1.17;
-   letter-spacing: 0.03em;
-   text-transform: uppercase;
-   color: #4D5AE5;
-}
-span{
-color: #2E2F42;
-}
-
-
-.menu-nav{
-   width: 261px;
-   height: 24px;
-   display: flex;
-   align-items: flex-start;
-   justify-content: flex-start;
-   flex-direction: row;
-   gap: 40px;
-}
-
-a> .contacts{
-   font-weight: 400;
-   font-size: 16px;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
-   display: flex;
-   align-items: flex-start;
-   justify-content: flex-start; 
-   gap: 40px;
+body {
+   font-family: "Roboto", sans-serif;
    color: #434455;
+   background-color: #ffffff;
 }
 
-.menu{
-   font-weight: 500;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
-   color:#2e2f42;
-}
-.menu:hover{
-   color: #404bbf;;
-}
