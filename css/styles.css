@@ -58,7 +58,7 @@ address {
   color: #ffffff;
 }
 
-.button {
+.order {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -69,8 +69,8 @@ address {
   cursor: pointer;
 }
 
-.button:hover,
-.button:focus {
+.order:hover,
+.order:focus {
   background-color: #404bbf;
 }
 
@@ -129,7 +129,7 @@ address {
 
 .portfolio-title{
    font-size: 36px;
-   line-height: 1.1;
+   line-height: 1.11;
    text-align: center;
    letter-spacing: 0.02em;
    text-transform: capitalize;
