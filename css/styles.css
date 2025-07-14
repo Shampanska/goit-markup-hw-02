@@ -58,7 +58,7 @@ address {
   color: #ffffff;
 }
 
-.order {
+.button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -69,8 +69,8 @@ address {
   cursor: pointer;
 }
 
-.order:hover,
-.order:focus {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
 }
 
