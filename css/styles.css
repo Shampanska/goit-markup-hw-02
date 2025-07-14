@@ -49,16 +49,12 @@ address{
 /*hero*/
 
 .hero{
-   background-color: #2e2f42;
-   width: 1440px;
-   height: 600px;
-}
-.hero-image{
    font-size: 56px;
    line-height: 1.07;
    text-align: center;
    letter-spacing: 0.02em;
    color: #ffffff;
+   background-color: #2e2f42;
 }
 
 .order{
@@ -76,3 +72,4 @@ address{
 .order:focus{
    background-color: #404BBF;
 }
+
