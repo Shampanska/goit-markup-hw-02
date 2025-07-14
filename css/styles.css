@@ -48,17 +48,16 @@ address{
 
 /*hero*/
 
-.hero{
+.hero-image{
    background-color: #2e2f42;
 }
 
-.hero-image{
-background-color: #2e2f42;
-font-size: 56px;
-line-height: 1.07;
-text-align: center;
-letter-spacing: 0.02em;
-color: #ffffff;
+.hero{
+   font-size: 56px;
+   line-height: 1.07;
+   text-align: center;
+   letter-spacing: 0.02em;
+   color: #ffffff;
 }
 
 .order{
@@ -76,4 +75,3 @@ color: #ffffff;
 .order:focus{
    background-color: #404BBF;
 }
-
